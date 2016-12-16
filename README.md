@@ -7,6 +7,3 @@ A complete plan for studying to become a Keli framework engineer.
 
 ## node.js
 - nodeschool has some good basic tutorials to help wrap your brain around node.js. [link](http://nodeschool.io "nodeschool.io")
-
-## peg parser
-- pegjs [link](https://pegjs.org/, "pegjs.org")
