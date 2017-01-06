@@ -10,6 +10,7 @@ A complete plan for studying to become a Keli framework engineer.
 - nodeschool has some good basic tutorials to help wrap your brain around node.js. [link](http://nodeschool.io "nodeschool.io")
 
 ## functional javascript
-- http://reactivex.io/learnrx/
+- nice tutorial to help you learn FP [link](http://reactivex.io/learnrx/)
+
 ## UI
 - polymer [link](https://www.polymer-project.org/1.0/)
